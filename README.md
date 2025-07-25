@@ -1,6 +1,6 @@
 # CPS Academy-Zero To Competitive Programing Bootcamp
 <br>
-<h2 align="center"> CPS Academy Bootcamp – Contest 1 Solutions</h2>
+<h2 align="center"> <b>CPS Academy Bootcamp – Contest 1 Solutions</b></h2>
 <br><br>
 This repository contains my solutions from **Contest 1** of the **Zero to Competitive Programming** bootcamp hosted by [CPS Academy](https://www.cpsacademy.io/bootcamp).
 
