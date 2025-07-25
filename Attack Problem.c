@@ -3,9 +3,10 @@ int main(){
     // A -x*B <=0
     // x*B>=A
     // x>=A/B
-    Long Long a,b;
+    long long a,b;
     scanf("%lld %lld",&a, &b);
     // Formula
-    Long Long x=(a+b-1)/b;
+    long long x=(a+b-1)/b;
+    printf("%lld\n",x);
     return 0;
 }
